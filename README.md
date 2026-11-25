@@ -1,7 +1,4 @@
-[![Android Studio • Claude • Antigravity • KernelSU](https://skillicons.dev/icons?i=androidstudio,claude,googlecloud,linux&theme=dark)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer) [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer) [![Antigravity](https://img.shields.io/badge/Antigravity-0B57D0?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer) [![KernelSU](https://img.shields.io/badge/KernelSU-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer)
-
-
+[![Android Studio • Claude • Antigravity • KernelSU](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,claude,antigravity,android&theme=dark)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer)
 
 
 ✨ OneUI Designer — Elevate Your Samsung One UI 8.5 Experience! 🚀
