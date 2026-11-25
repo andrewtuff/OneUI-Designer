@@ -1,5 +1,6 @@
-[![OneUI Designer Tech Stack](https://skillicons.dev/icons?i=androidstudio,kotlin,git,github&theme=dark)](https://github.com/andrewtuff)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai) [![Antigravity](https://img.shields.io/badge/Antigravity-0B57D0?style=for-the-badge&logo=google-cloud&logoColor=white)](#) [![KernelSU](https://img.shields.io/badge/KernelSU-111827?style=for-the-badge&logo=linux&logoColor=38BDF8)](https://kernelsu.org)
+[![Android Studio • Claude • Antigravity • KernelSU](https://skillicons.dev/icons?i=androidstudio,claude,googlecloud,linux&theme=dark)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer) [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer) [![Antigravity](https://img.shields.io/badge/Antigravity-0B57D0?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer) [![KernelSU](https://img.shields.io/badge/KernelSU-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8)](https://github.com/andrewtuff/OneUI-Designer/releases/tag/Designer)
+
 
 
 
